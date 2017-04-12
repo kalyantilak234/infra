@@ -9,14 +9,14 @@
   },
    {
     "ParameterKey": "KeyName",
-    "ParameterValue": "Sonar"
+    "ParameterValue": "ubuntuprivatea"
    },
   {
      "ParameterKey": "SubnetId",
-    "ParameterValue": "subnet-b30f85d4"
+    "ParameterValue": "subnet-97715bcf"
   },
   {
     "ParameterKey": "InstanceSecurityGroup",
-    "ParameterValue": "sg-47f3cb3f"
+    "ParameterValue": "sg-f3cf1d88"
   }
 ]
